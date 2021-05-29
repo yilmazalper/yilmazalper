@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yilmazalper
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning C# and JAVA
-- 💞️ I’m looking to collaborate on My mail address
+- 💞️ I’m looking to collaborate on My gmail mail address
 - 📫 How to reach me http://alperyilmaz.com.tr.ht/wp/
 
 <!---
